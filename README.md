@@ -25,10 +25,11 @@ The aim of the E-commerce Sales Dashboard project was to provide a comprehensive
 
 # Power BI Dashboard
 This is an interactive Power BI Dashboard .....
+# Snapshot of Dashboard (Power BI Service)
 
 ![Ecommerce_sale_dashbaord](https://github.com/user-attachments/assets/26a01332-1607-409a-ad03-8e810ef59afa)
 
-
+# Snapshot of Dashboard (Power BI Service)
 
 ![Dashboard1](https://github.com/user-attachments/assets/b88a6963-9cdf-4f83-99d9-bfe98e8e8bda)
 

@@ -1,7 +1,7 @@
 
 
 # Ecommerce Sales Dashboard
-The aim of the E-commerce Sales Dashboard project was to provide a comprehensive perspective on e-commerce sales performance. This was achieved by creating interactive and visually captivating dashboards using Power BI. These dashboards were tailored to carefully scrutinize and monitor vital Year-to-Date (YTD) metrics, including profit, quantity, profit margin, and sales trends. Leveraging data sourced from the e-commerce platform, these dashboards empowered stakeholders to make well-informed decisions, pinpoint growth opportunities, and assess the effectiveness of their marketing campaigns.
+The goal of the E-commerce Sales Dashboard project was to deliver a detailed view of e-commerce sales performance. This was accomplished by developing interactive and visually appealing dashboards using Power BI. These dashboards were designed to closely analyze and track essential Year-to-Date (YTD) metrics, such as profit, quantity, profit margin, and sales trends. By utilizing data from the e-commerce platform, these dashboards enabled stakeholders to make informed decisions, identify growth opportunities, and evaluate the effectiveness of their marketing campaigns.
 
 # Tools Used
 * Power BI
@@ -35,5 +35,4 @@ This is an interactive Power BI Dashboard .....
 
 
 # Summary
-In this project, we focused on four key performance indicators: YTD Sales, YTD Profit, YTD Profit Margin, and Quantity of Products sold. We conducted a thorough analysis of sales data across different categories, including product categories, states, and regions, to gain a comprehensive understanding of performance and distribution patterns. To convey these insights effectively, we harnessed the power of interactive dashboards, charts, and visualizations. The ultimate goal was to utilize the valuable insights from this project to make informed business decisions, drive growth, and optimize operational strategies for the benefit of the Ecommerce Sales Company.
-
+In this project, we concentrated on four key performance indicators: YTD Sales, YTD Profit, YTD Profit Margin, and Quantity of Products Sold. We performed an in-depth analysis of sales data across various categories, including product types, states, and regions, to gain a comprehensive understanding of performance and distribution trends. To effectively communicate these insights, we leveraged interactive dashboards, charts, and visualizations. Our ultimate aim was to use the valuable insights gained from this project to make informed business decisions, drive growth, and optimize operational strategies for the benefit of the e-commerce sales company.
